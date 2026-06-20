@@ -446,7 +446,6 @@ lib/modules/sscoredump_test.ko
 lib/modules/st33spi.ko
 lib/modules/stmvl53l1.ko
 lib/modules/sts4x_ambient_i2c.ko
-lib/modules/syna_touch.ko
 lib/modules/vh_preemptirq_long.ko
 lib/modules/wlan_ptracker.ko
 lib64/android.frameworks.stats-V1-ndk.so
